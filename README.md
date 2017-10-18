@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # aPocket CLI
 
 A simple Command Line Interface Wallet using [aPocket API Service] (https://github.com/arisebank/apocket-api) and its *official* client lib, apocket-lib] (https://github.com/arisebank/apocket-api)
+=======
+# aPocket-CLI
+
+A simple Command Line Interface Wallet using [aPocket API] (https://github.com/arisebank/apocket-api) and its *official* client lib, apocket-lib] (https://github.com/arisebank/apocket-lib)
+>>>>>>> 2691289ed699f8fcc3b14f4548418aa021e7b155
 
 
 # Quick Guide
