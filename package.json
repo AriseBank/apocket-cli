@@ -2,7 +2,7 @@
   "name": "apocket-cli",
   "description": "A CLI to the aPocket API Backend-Service",
   "author": "AriseBank Inc",
-  "version": "0.9.0",
+  "version": "0.9.2",
   "keywords": [
     "bitcoin",
     "apocket",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "async": "^2.5.0",
-    "apocket-wallet-client": "5.4.0",
+    "apocket-lib": "5.4.0",
     "commander": "^2.6.0",
     "lodash": "^3.3.1",
     "moment": "^2.9.0",

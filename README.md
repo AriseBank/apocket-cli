@@ -1,6 +1,6 @@
-# bitcore-wallet
+# aPocket CLI
 
-A simple Command Line Interface Wallet using [aPocket Wallet Service] (https://github.com/bitpay/bitcore-wallet-service) and its *official* client lib, bitcore-wallet-client] (https://github.com/bitpay/bitcore-wallet-client)
+A simple Command Line Interface Wallet using [aPocket API Service] (https://github.com/arisebank/apocket-api) and its *official* client lib, apocket-lib] (https://github.com/arisebank/apocket-api)
 
 
 # Quick Guide
